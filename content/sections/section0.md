@@ -4,6 +4,6 @@ weight: 1
 improvecontrast: true
 ---
 
-# Grayscale
+# Phoenix Karate Leeds
 
 A free, responsive, one page Hugo/Bootstrap theme originally created by Start Bootstrap.
