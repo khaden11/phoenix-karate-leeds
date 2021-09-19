@@ -12,5 +12,7 @@ If you have any questions whatsoever please get in touch with us via
 
 Or check out/message us through our social media channels
 
-<a href=""><i style="vertical-align: middle;font-size: 40px; position: relative; width: auto; left: 0; top: 0" class="fa-li fa fa-facebook-square"></i>&nbsp;&nbsp;phoenixkarateleeds</a>&nbsp;&nbsp;
+<a href=""><i style="vertical-align: middle;font-size: 40px; position: relative; width: auto; left: 0; top: 0" class="fa-li fa fa-facebook-square"></i>&nbsp;&nbsp;phoenixkarateleeds</a>
+
+
 <a href=""><i style="vertical-align: middle;font-size: 40px; position: relative; width: auto; left: 0; top: 0" class="fa-li fa fa-instagram"></i>&nbsp;&nbsp;phoenixkarateleeds</a>
