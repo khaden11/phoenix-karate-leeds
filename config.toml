@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "Jane Doe - Nutrition Coach & Chef Consultant"
+title = "Phoenix Karate Leeds"
 
 [markup]
   [markup.goldmark]
