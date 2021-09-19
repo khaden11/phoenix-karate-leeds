@@ -1,7 +1,7 @@
 baseURL = "https://runningstream.github.io/hugograyscale/"
 languageCode = "en-us"
 title = "Hugo Grayscale Theme"
-theme = "hugograyscale"
+theme = "hugo-scroll"
 #googleAnalytics = ""
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
